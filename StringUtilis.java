@@ -1,0 +1,2 @@
+this contain about string
+
