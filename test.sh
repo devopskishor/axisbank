@@ -1,2 +1,0 @@
- this contains about shell
-
